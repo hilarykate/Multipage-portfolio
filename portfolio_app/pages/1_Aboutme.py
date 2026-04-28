@@ -6,7 +6,7 @@ col1, col2 = st.columns([1, 2])
 
 with col1:
     st.image(
-        "images/hyla.jpg",
+        "portfolio_app/images/hyla.jpg",
         caption="Hilary Kate",
         use_container_width=True
     )
