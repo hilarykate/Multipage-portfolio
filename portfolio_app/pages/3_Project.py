@@ -10,7 +10,7 @@ with st.container():
     col1, col2 = st.columns([1, 2])
     
     with col1:
-        st.image("images/cert1.jpg", use_container_width=True)
+        st.image("portfolio_app/images/cert1.jpg", use_container_width=True)
     
     with col2:
         st.subheader("introduction to Cyber Security")
@@ -23,7 +23,7 @@ with st.container():
     col1, col2 = st.columns([1, 2])
     
     with col1:
-        st.image("images/cert2.jpg", use_container_width=True)
+        st.image("portfolio_app/images/cert2.jpg", use_container_width=True)
     
     with col2:
         st.subheader("Python for beginners")
@@ -37,7 +37,7 @@ with st.container():
     col1, col2 = st.columns([1, 2])
     
     with col1:
-        st.image("images/cert3.jpg", use_container_width=True)
+        st.image("portfolio_app/images/cert3.jpg", use_container_width=True)
     
     with col2:
         st.subheader("Python Essentials 1")
